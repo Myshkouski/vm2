@@ -1,9 +1,8 @@
 {
   "author": {
-    "name": "Patrik Simek",
-    "url": "https://patriksimek.cz"
+    "name": "Alexei Myshkouski"
   },
-  "name": "vm2",
+  "name": "@alexeimyshkouski/vm2",
   "description": "vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Securely!",
   "keywords": [
     "sandbox",
@@ -13,14 +12,13 @@
     "alcatraz",
     "contextify"
   ],
-  "version": "3.6.0",
+  "version": "3.6.0-nopromise.1",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patriksimek/vm2"
+    "url": "https://github.com/Myshkouski/vm2"
   },
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "mocha": "^2.0.0"
   },
